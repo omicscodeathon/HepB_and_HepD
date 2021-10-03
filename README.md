@@ -1,2 +1,2 @@
 # HepB_and_HepD
-HEP-B and HEP-D: Epidemiology, Molecular Mechanisms, Computational Approaches and Drug Design
+In silico Analysis of Single Nucleotide Polymorphisms of Human Hepatitis B and D Virus in Sudan
