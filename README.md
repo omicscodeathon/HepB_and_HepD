@@ -1,2 +1,2 @@
-# HepB_and_HepC
-HEP-B and HEP-C: Epidemiology, Molecular Mechanisms, Computational Approaches and Drug Design
+# HepB_and_HepD
+HEP-B and HEP-D: Epidemiology, Molecular Mechanisms, Computational Approaches and Drug Design
