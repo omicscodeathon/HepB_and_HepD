@@ -13,3 +13,16 @@ In silico Analysis of Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis 
 3. Run multiple sequence alignment (mafft)
 4. Compute SNP distances (snpdists) and phylogeny (iqtree)
 ## Pipeline 
+1. Data preprocessing
+* Converting **seq** files into **fasta** files.
+* Quality control check (if needed).
+2. Alignment
+* minimap
+* bwa-mem
+* mafft
+3. Compute SNPs distance
+* snpdists
+4. Phylogeny analysis
+* Maximum likelihood 
+* Neighbor joining. 
+* IQ-tree
