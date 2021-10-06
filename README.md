@@ -12,3 +12,4 @@ In silico Analysis of Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis 
 2. Combine (concatenate) the reference sequences with the sequenced gene sequences
 3. Run multiple sequence alignment (mafft)
 4. Compute SNP distances (snpdists) and phylogeny (iqtree)
+## Pipeline 
