@@ -1,9 +1,9 @@
 # HepB_and_HepD
-In silico Analysis of Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis **B** and **D** Virus in Sudan
+In silico Analysis of the Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis **B** and **D** Viruses in Sudan
 ## Team members:
 
 
-## Data soucre:
+## Data sources:
 * HBVdb - hepatitis B - https://hbvdb.lyon.inserm.fr/HBVdb/HBVdbDataset
 * NCBI genotyping tool: https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi
 * HDVdb - hepatitis D - https://hdvdb.bio.wzw.tum.de/hdvdb/
