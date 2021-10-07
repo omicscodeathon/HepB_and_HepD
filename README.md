@@ -1,15 +1,15 @@
 # HepB_and_HepD
 In silico Analysis of the Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis **B** and **D** Viruses in Sudan
 ## Team members:
-Osama Mohammed
-Sabah Ibrahim
-Sumaya Kambal
-Esra A. Abdalwhab
-Arwa Ibrahim
-Sowole Adekunle Damilola
-Adam Yagoub
-Situma Victor Wekesa
-Sofia B. Mohamed
+1. Osama Mohammed
+2. Sabah Ibrahim
+3. Sumaya Kambal
+4. Esra A. Abdalwhab
+5. Arwa Ibrahim
+6. Sowole Adekunle Damilola
+7. Adam Yagoub
+8. Situma Victor Wekesa
+9. Sofia B. Mohamed
 
 ## Data sources:
 * HBVdb - hepatitis B - https://hbvdb.lyon.inserm.fr/HBVdb/HBVdbDataset
