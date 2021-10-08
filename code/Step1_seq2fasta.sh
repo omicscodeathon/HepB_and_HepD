@@ -17,12 +17,16 @@ do
     new_folder=$(echo ${study_folders[$i]} | sed 's/ /_/g')
     mv "$folder"  "${folder// /_}"
     fasta_folder=${new_folder}_fata
+    multi_fasta_folder=${new_folder}_multifata
     echo ${fasta_folder}
     mkdir ${fasta_folder};
+    mkdir ${multi_fasta_folder};
 
 
     ## Get seq files from each folder
     echo "Creating fasta files"
+    touch ./${multi_fasta_folder}/${new_folder}.fasta
+    ### For multi_fasta files
     seq_files=$(ls ${new_folder}/*seq);
     for seq in ${seq_files[*]};do
       seq_file=$(basename $seq)
@@ -32,7 +36,11 @@ do
       fasta_header=$(echo $seq_file| sed -e 's/.seq//');
       fasta_header='>'${fasta_header};
       echo ${fasta_header}> ./${fasta_folder}/${fasta_output}
-      cat ${seq} >>  ./${fasta_folder}/${fasta_output}
+      echo ${fasta_header} >>  ./${multi_fasta_folder}/${new_folder}.fasta
+      cat ${seq}  >>  ./${fasta_folder}/${fasta_output}
+      cat ${seq} >>  ./${multi_fasta_folder}/${new_folder}.fasta
+      echo "\n" >>  ./${multi_fasta_folder}/${new_folder}.fasta
+
     done
 
     echo "Well done !"
