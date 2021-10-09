@@ -16,7 +16,7 @@ Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnavir
 ![Overview diagram](workflow.jpg)
 ## Pipeline 
 1. Data preprocessing
-* Converting **seq** files into **fasta** files.
+* Converting **seq** files into **fasta** files using Bash script.
 * Quality control check using Tracy. https://github.com/gear-genomics/tracy
 2. Alignment
 * minimap
