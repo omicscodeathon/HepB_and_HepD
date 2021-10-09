@@ -34,6 +34,6 @@
 4. Esra A. Abdalwhab
 5. Arwa Ibrahim
 6. Sowole Adekunle Damilola
-7. Adam Yagoub
+7. Yagoub Adam
 8. Situma Victor Wekesa
 9. Sofia B. Mohamed
