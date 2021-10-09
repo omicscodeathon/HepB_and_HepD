@@ -33,9 +33,8 @@ Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnavir
 - Osama Mohammed
 - Sabah Ibrahim
 - Sumaya Kambal
-- Esra A. Abdalwhab
 - Arwa Ibrahim
-- Sowole Adekunle Damilola
+- Esra A. Abdalwhab
 - Yagoub Adam 
 - Situma Victor Wekesa
 - Sofia B. Mohamed
