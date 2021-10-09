@@ -1,7 +1,7 @@
 # In silico Analysis of the Single Nucleotide Polymorphisms (SNPs) of Human Hepatitis **B** and **D** Viruses in Sudan
 
 ## Background
-Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnaviridae family, which have some of the smallest known viral genomes. The HBV genome is 3.2 kb with multiple overlapping reading frames. It is a has very high substitution rate, especially for a DNA virus.  As a result of nucleic acid sequence variation, there are nine recognized HBV genotypes (A to I) and one putative genotype (J). ). HBV genotypes influence clinical outcomes, long-term complications, response to treatment and even transmission routes of infection.
+Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnaviridae family, which have some of the smallest known viral genomes. The HBV genome is 3.2 kb with multiple overlapping reading frames. It is a has very high substitution rate, especially for a DNA virus.  As a result of nucleic acid sequence variation, there are nine recognized HBV genotypes (A to I) and one putative genotype (J). ). HBV genotypes influence clinical outcomes, long-term complications, response to treatment and even routes of transmission of infection.
 
 ## Data sources
 * HBVdb - hepatitis B - https://hbvdb.lyon.inserm.fr/HBVdb/HBVdbDataset
