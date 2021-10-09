@@ -3,7 +3,7 @@
 ## Background
 Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnaviridae family, which have some of the smallest known viral genomes. The HBV genome is 3.2 kb with multiple overlapping reading frames. It is a has very high substitution rate, especially for a DNA virus.  As a result of nucleic acid sequence variation, there are nine recognized HBV genotypes (A to I) and one putative genotype (J). ). HBV genotypes influence clinical outcomes, long-term complications, response to treatment and even transmission routes of infection.
 
-## Data sources:
+## Data sources
 * HBVdb - hepatitis B - https://hbvdb.lyon.inserm.fr/HBVdb/HBVdbDataset
 * NCBI genotyping tool: https://www.ncbi.nlm.nih.gov/projects/genotyping/formpage.cgi
 * HDVdb - hepatitis D - https://hdvdb.bio.wzw.tum.de/hdvdb/
@@ -30,12 +30,12 @@ Hepatitis B virus (HBV) is a partial double-stranded DNA virus of the Hepadnavir
 * IQ-tree
 
 ## Team members:
-1. Osama Mohammed
-2. Sabah Ibrahim
-3. Sumaya Kambal
-4. Esra A. Abdalwhab
-5. Arwa Ibrahim
-6. Sowole Adekunle Damilola
-7. Adam Yagoub
-8. Situma Victor Wekesa
-9. Sofia B. Mohamed
+- Osama Mohammed
+- Sabah Ibrahim
+- Sumaya Kambal
+- Esra A. Abdalwhab
+- Arwa Ibrahim
+- Sowole Adekunle Damilola
+- Yagoub Adam 
+- Situma Victor Wekesa
+- Sofia B. Mohamed
